@@ -1,0 +1,23 @@
+༼        The file name is the date & time bgCompiler was invoked on this file (in CST (Central Standard Time))
+
+YYYY-MM-DD__Hr-Min-Sec__filename.bg/gao        ༽
+༼        Created w/ BrightWin & BrightEditor (both written by Bright Gao)
+
+Creation time & date:     09:17:25 , 9/13/2,025
+
+File author:              Bright Gao
+
+File name when created:   main.bg
+
+Directory created in:     C:\Users\brigh\Documents\zkyProjects\f        ༽
+
+entry   <//> 《
+	:##xd << 123;
+	:#ind << 0;
+	/! xd >> /^ >> /^;
+	[]</ :##::@@z />;
+	repeat |[10]| z addToEnd</ xd times ind /> >> ind <<< 1;
+	ind << 0;
+	repeat |[10]| /!z atIndex</ ind /> >> ind <<< 1 >> /^;
+	/^ >> /!{done};
+》	
