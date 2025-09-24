@@ -1,0 +1,28 @@
+warning: in the working copy of 'BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-09-23__19-15-38.txt', LF will be replaced by CRLF the next time Git touches it
+[master dfef184] BrightEditor autopush 19:15:38 9/23/2025 CST
+ 24 files changed, 68 insertions(+), 14 deletions(-)
+ create mode 100644 BrightEditor Logs/Git Autopush Results/gitAutopushResult__2025-09-23__19-15-38.txt
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-33__764__R
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-33__816__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-34__146__E
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-34__195__A
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-34__261__T
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-34__98__P
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-35__956__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-36__194__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-36__322__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-36__447__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-36__579__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-36__76__Backspace
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-37__629__I
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-37__676__N
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-37__725__D
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-37__790__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-37__838__Shift
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-37__949__,
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-38__172__Space
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-38__251__-
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-38__66__,
+ create mode 100644 BrightEditor Logs/keypresses/2025-09-23__19-15-38__718__Backspace
+To https://github.com/brightgao1/f.git
+   f338f82..dfef184  master -> master

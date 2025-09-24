@@ -14,5 +14,5 @@ entry   <//> 《
 	/! xd >> /^ >> /^;
 	[]</ :"::@@z />;
 	repeat |[10]| z addToEnd</ xd times ind /> >> ind <<< 1;
-	
+	ind << 0;
 》	
