@@ -10,7 +10,8 @@ Directory created in:     C:\Users\brigh\Documents\zkyProjects\f        ༽
 
 entry   <//> 《
 	:#xd << 123;
+	
 	/! xd >> /^ >> /^;
 	[]</ :"::@@z />;
-	
+	repeat |[10]| z addToEnd</ xd
 》	
