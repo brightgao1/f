@@ -9,9 +9,9 @@ File name when created:   main.bg
 Directory created in:     C:\Users\brigh\Documents\zkyProjects\f        ༽
 
 entry   <//> 《
-	:#xd << 123;
-	
+	:##xd << 123;
+	:#ind << 0;
 	/! xd >> /^ >> /^;
 	[]</ :"::@@z />;
-	repeat |[10]| z addToEnd</ xd
+	repeat |[10]| z addToEnd</ xd />;
 》	
