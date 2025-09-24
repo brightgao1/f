@@ -1,0 +1,32 @@
+༼        The file name is the date & time bgCompiler was invoked on this file (in CST (Central Standard Time))
+
+YYYY-MM-DD__Hr-Min-Sec__filename.bg/gao        ༽
+༼        Created w/ BrightWin & BrightEditor (both written by Bright Gao)
+
+Creation time & date:     09:17:25 , 9/13/2,025
+
+File author:              Bright Gao
+
+File name when created:   main.bg
+
+Directory created in:     C:\Users\brigh\Documents\zkyProjects\f        ༽
+
+entry   <//> 《
+	variable num << 39854;
+	/! num >> /^ >> num <<< 1000 >> /! num;
+	printNewLine >> num <<< 2;
+	? |[num % 2 isEqualTo 0]| /! num >> /! { is even};
+	~ printUnicodeString num >> printUnicodeString { is odd};
+	repeat|[2]| printNewLine;
+	[]</ :## :: @@arrName />;
+	[]</ :" :: @@arr2 />;
+	:#index << 0;
+	repeat|[4]| 【
+		:"str << {line};
+		str <<< space >> str <<< toUnicodeString</ index /> >> index <<< 1;
+		arr2 addToEnd</ str />; 
+	】
+	repeat|[8]| arrName addToEnd</ 12345 />;
+	LR|[i..arr2 elementCount]| printUnicodeString arr2 atIndex</ i /> >> /^;			
+	
+》	
